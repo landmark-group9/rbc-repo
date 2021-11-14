@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 
 
@@ -10,4 +10,5 @@ do
 echo $y
 y=`expr $y + 2000` 
 done
+echo for loop ending...
 echo while loop ends
