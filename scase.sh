@@ -17,7 +17,7 @@ restart)
 
 *)
 	echo wrong option
-	echo only start and stop options available
+	echo only start restart & stop options available
           
 
 esac
