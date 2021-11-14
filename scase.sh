@@ -9,10 +9,15 @@ start)
 	echo switch case started;;
 stop)
 	echo switch case ending
-	echo switch case ended;;
+        echo switch case ended;;
+	
+restart)
+       echo switch case restarting
+       echo switch case restarted;;
+
 *)
 	echo wrong option
-	echo start and stop only options
+	echo only start and stop options available
           
 
 esac
