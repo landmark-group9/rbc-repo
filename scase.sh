@@ -18,7 +18,7 @@ restart)
 *)
 	echo wrong option
 	echo only start restart & stop options available
-          
+        echo what is todat `date`  
 
 esac
 echo switch case ends
